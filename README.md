@@ -26,3 +26,7 @@
 - Wait for Pull Request to merge
 
 - Celebrate - you've done your first pull request!!
+
+## In case you can't see any issues then simply go to Hacktoberfest site , then click on Home Button then scroll down to BROWSE MORE ON GITHUB. Then the next screen you see is with many issues. You can solve any issues which you are comfortable with.
+
+## Voila!! You are good to go.
